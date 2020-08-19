@@ -1,0 +1,63 @@
+.sc-tools {
+  padding-bottom: 80px;
+
+  .lang-used {
+    border-top: 1px solid #c8d6e5;
+    padding-top: 80px;
+  }
+}
+
+.tools-container {
+  overflow: hidden;
+
+  .lang-holder {
+    display: flex;
+    flex-wrap: nowrap;
+
+    min-width: 2000px;
+  }
+}
+
+.tools-menu {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+
+  li {
+    max-width: 149px;
+    margin-right: 35px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+.scrollto-left {
+  animation: scrolltoLeft 20s linear infinite;
+}
+
+.scrollto-right {
+  animation: scrolltoRight 20s linear infinite;
+}
+
+@keyframes scrolltoLeft {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-885px);
+  }
+}
+
+@keyframes scrolltoRight {
+  from {
+    transform: translateX(-885px);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}

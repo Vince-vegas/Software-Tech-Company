@@ -1,0 +1,33 @@
+{
+  "name": "vince-javascript-v2",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "homepage:sass": "node-sass src/pages-style/homepage.scss css/style.css -w",
+    "aboutpage:sass": "node-sass src/pages-style/about.scss css/about.css -w",
+    "contactpage:sass": "node-sass src/pages-style/contact.scss css/contact.css -w",
+    "developers:sass": "node-sass src/pages-style/developers.scss css/developers.css -w",
+    "webpack": "webpack",
+    "webpack:server": "webpack-dev-server --config webpack.config.dev.js --open",
+    "webpack:production": "webpack --config webpack.config.prod.js"
+  },
+  "author": "Vince",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.11.0",
+    "@glidejs/glide": "^3.4.1",
+    "aos": "^2.3.4",
+    "intersection-observer": "^0.11.0",
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

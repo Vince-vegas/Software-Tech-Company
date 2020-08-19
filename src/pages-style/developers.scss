@@ -1,0 +1,135 @@
+// 0. Plugins
+@import '../../sass/0-plugins/variables.scss';
+@import '../../sass/0-plugins/mixin.scss';
+
+// 1. reset
+@import '../../sass/1-reset/normalize.scss';
+
+// 2. layout
+@import '../../sass/3-layout/responsive.scss';
+
+// Global Buttons
+@import '../../styles/global/global-buttons.scss';
+
+body {
+  background: #fff;
+  color: #3a3d49;
+  font: 400 16px/1.6 'Noto Sans JP', sans-serif;
+  overflow-x: hidden;
+}
+
+// NAV CSS
+@import '../../styles/global/navbar.scss';
+
+.mn-developers {
+  height: 625px;
+  display: flex;
+  align-items: center;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .mn-content {
+    h1 {
+      font-size: 42px;
+      font-weight: bolder;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .image-area {
+    border-radius: 3px;
+    overflow: hidden;
+  }
+}
+
+.heading-holder {
+  margin-bottom: 110px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sc-title {
+  font-size: 44px;
+  font-weight: bolder;
+}
+
+.sc-subtitle {
+  color: #1d1c1c;
+  font-size: 18px;
+}
+
+.sc-service {
+  padding: 80px 0;
+}
+
+.srv-item {
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 8px #e3e3e3;
+  transition: all 0.4s ease-out;
+
+  .srv-img {
+    min-width: 55px;
+    max-width: 55px;
+    margin-right: 15px;
+  }
+
+  .srv-content {
+    h4 {
+      font-size: 22px;
+      font-weight: bold;
+      padding-bottom: 6px;
+    }
+  }
+
+  &:hover {
+    box-shadow: 2px 4px 40px 4px #c8d6e5;
+  }
+}
+
+@include media-query-max(768px) {
+  .mn-developers {
+    .mn-content {
+      margin-bottom: 30px;
+
+      h1 {
+        font-size: 30px;
+      }
+
+      p {
+        font-size: 18px;
+      }
+    }
+  }
+
+  .sub-heading {
+    font-size: 25px;
+  }
+
+  .sc-title {
+    font-size: 33px;
+  }
+
+  .srv-item {
+    text-align: center;
+    flex-direction: column;
+
+    .srv-img {
+      margin: 0 auto 15px;
+    }
+  }
+}
+
+// FOOTER
+@import '../../styles/sections/footer.scss';

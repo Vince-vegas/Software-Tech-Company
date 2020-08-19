@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_documentation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80"></rect>
+        <path d="M31.052,0.237 L31.052,0.237 L31.052,61 L31.052,61 C22.857,61 14.998,57.799 9.204,52.101 C3.41,46.404 0.154,38.676 0.154,30.619 C0.154,30.619 0.154,30.619 0.154,30.619 C0.154,22.561 3.41,14.833 9.204,9.136 C14.998,3.438 22.857,0.237 31.052,0.237 Z" id="path-3"></path>
+        <rect id="path-5" x="0.762" y="0.612" width="74.476" height="86.388"></rect>
+        <path d="M0.052,61 L0.052,61 L0.052,0.237 L0.052,0.237 C8.246,0.237 16.105,3.438 21.899,9.136 C27.694,14.833 30.949,22.561 30.949,30.619 C30.949,30.619 30.949,30.619 30.949,30.619 C30.949,38.676 27.694,46.404 21.899,52.101 C16.105,57.799 8.246,61 0.052,61 Z" id="path-7"></path>
+    </defs>
+    <g id="Product-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-On-premises" transform="translate(-763.000000, -2827.000000)">
+            <g id="Group-5" transform="translate(0.000000, 2251.000000)">
+                <g id="Group-4">
+                    <g id="icon_documentation" transform="translate(763.000000, 576.000000)">
+                        <rect id="icon_011" x="0" y="0" width="80" height="80"></rect>
+                        <g id="Clipped">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle"></g>
+                            <g id="Group" mask="url(#mask-2)">
+                                <g transform="translate(0.000000, 2.000000)">
+                                    <g id="Group" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 17.000000)">
+                                        <path d="M31.052,0.237 L31.052,0.237 L31.052,61 L31.052,61 C22.857,61 14.998,57.799 9.204,52.101 C3.41,46.404 0.154,38.676 0.154,30.619 C0.154,30.619 0.154,30.619 0.154,30.619 C0.154,22.561 3.41,14.833 9.204,9.136 C14.998,3.438 22.857,0.237 31.052,0.237 Z" id="Path" fill="#A1CEFF"></path>
+                                        <g id="Clipped">
+                                            <mask id="mask-4" fill="white">
+                                                <use xlink:href="#path-3"></use>
+                                            </mask>
+                                            <g id="Path"></g>
+                                            <g mask="url(#mask-4)">
+                                                <g transform="translate(-18.000000, 24.000000)">
+                                                    <mask id="mask-6" fill="white">
+                                                        <use xlink:href="#path-5"></use>
+                                                    </mask>
+                                                    <g id="Rectangle" stroke="none" fill="none"></g>
+                                                    <g id="_Image4-link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-6)">
+                                                        <g transform="translate(18.154486, 0.612295)" id="_Image4">
+                                                            <image x="0" y="0" width="30.897297" height="36.387835" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAlCAYAAAC6TzLyAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAABGtJREFUWAm9le9rlmUUx697PrrNNdPmZr+GOvyxpWSLtIhRGZlEUYo/QHxXCPrKIIiiv6IXYUFve+WLMokUJLBGJU2NUTkY2ka4zR+zmEydud19Pvfue6ztcXvm8zwe+D7nOuc61/me69zXdT1RQA58HbeokT8PvRndGh8W/0veB8kSkfOffNkinQTVoW4QdDNfUOYjzvg18Vh4AX3u021RezY3VUscx6EVf0UUhTNZAfiX4asB/TkXMTGoLlAs8BIYyhe//6v4UfwPgR4wQLV1FLHxwJF4A7qKwuWsBp8n5AwKlVUU2g3BZRa8xC6GsHtczLgmxKEZgvWY1yAZRkdxCLUhCs2MrwA71kYnaokbTNqOY1YheTMJ9xH4AdhDgoPoXpL8gLaY1iRpCB0U8TB2E/Yw899C3sv4Aut34H+H8ff4j8+4cwhXEzwfdJHwExatY9zIwir00+BJfM+i3WUDGCRuHnot/qfQHt56fB9TwCJ8/az9Dp95W2ckJ+AqqAAtLFrKYg/LTrSn9za+TsbXGL8KlGrsbehK8IDAXk7cdgpYjv0zsP2jYMkEObtcQVus9kfwDIsMGsG3i/EW8Di24qdaAsbwSXICPA+MXwkqIDvPXD1jD5+7lMdPYd5bnIPjZDmVg7QR53Xg4l+iitAAoQs+RB8j+G3Gj4DsfLjjL7BHmDuDts138F3HVmrQ7tLCOvH3ob3visWZyKt9zJZKOsypHYa4GsJNLL7IIr/jIpA8FOiA7yxKCv1djI6glVrWrBofhgXoxcDrJAbAYfAH6AV/gwZybbUdXo0LdMC76d21bW+Q+DAs72GbQOIO1El0DFEb+lcKfZnxOfzufiGYKp6HPnJdAZ8R/xp2FWvs2Pocjs0Yy0jWhuMGGMX2Pm4BnmC7E/A9QYxdMqYe+130HeCJHmKuH99axsrvQGJ97cxtArXYlRRxmrEPVV+OVndSwCsYG4C7akF7UNzNZFnI3GYctt1v3I3W18S4M/VF2J5k27s4jXmd8XxgrB1bjV6KXefOd2NI7mlUDJQgn3i/FYv0nhuXY7yGpEfR7djvgyZwCXu788z9hTbW9b5udqQuIeHdHUsn/bbeXRd7TwsVbk/4F5jnPJDMu+9BGyXnRvRF4CfsApfh2JuQ81afxFiH0ytgguQ7o/OJLe8g/rl8k/gsRJijJx2vSPVR1npGfI4bs53HOH8j4WM4fUCmCfMW+GI64V0/i+3Tes+S7PDQW5yTKLlyeYnT7H7PTBYUS2yimdqbEXmdvGofpY7EziaL0bOS01537PW5DUawTxdDOHntBLmtnzyRjn3xTgAP2U/gVCnanfFMkOuYWgBkX0L2DVPu3Gc2eWrRJZFpu+XOe03KKV61nPjfzmWcunt9JZZ+8vmPmVRQ4tyzpluZRUxrezZxH9p/1z+QpIZyF3DXnd+PDsxKbhHl6kBB5OUqoGDychQwJ/JSFzBncgtQSnEO7pl8vITiiiiavJgulIQ868JcCyk5+VwK+Q+jLZ9bEvvs0gAAAABJRU5ErkJggg=="></image>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <path d="M31.052,61 L31.052,61 L31.052,0.237 L31.052,0.237 C39.246,0.237 47.105,3.438 52.899,9.136 C58.694,14.833 61.949,22.561 61.949,30.619 C61.949,30.619 61.949,30.619 61.949,30.619 C61.949,38.676 58.694,46.404 52.899,52.101 C47.105,57.799 39.246,61 31.052,61 Z" id="Path" fill="#E6EDFF"></path>
+                                        <g id="Clipped" transform="translate(31.000000, 0.000000)">
+                                            <mask id="mask-8" fill="white">
+                                                <use xlink:href="#path-7"></use>
+                                            </mask>
+                                            <g id="Path"></g>
+                                            <path d="M4.415,-18.776 C-1.752,-8.339 -10.665,-5.818 -21.064,-4.124 C-25.583,-3.388 -30.808,-2.713 -34.24,1.073 C-37.355,4.509 -37.976,10.013 -33.331,11.968 C-29.655,13.515 -25.942,11.231 -23.085,8.755 C-17.003,3.484 -10.879,-2.374 -3.884,-6.063 C0.4,-8.322 7.146,-9.448 7.492,-1.996 C7.793,4.504 1.266,6.718 -3.071,8.343 C-10.999,11.311 -14.726,15.866 -21.467,20.708 C-24.82,23.115 -28.397,24.615 -31.974,26.519 C-37.01,29.2 -42.065,37.482 -35.799,42.21 C-31.332,45.58 -26.047,42.141 -22.663,38.501 C-14.901,30.15 -11.486,18.455 -1.085,13.131 C5.517,9.751 12.438,12.313 19.067,9.895 C21.281,9.087 23.374,7.858 25.289,6.371 C28.052,4.224 31.651,-1.367 35.405,1.444 C36.764,2.462 37.574,4.287 37.808,6.077 C38.503,11.378 35.082,15.685 30.954,17.504 C23.228,20.907 15.018,14.235 7.355,18.868 C2.699,21.684 1.451,27.6 -1.24,32.275 C-3.737,36.614 -7.499,39.608 -11.686,41.581 C-17.257,44.206 -23.291,45.601 -28.715,48.6 C-30.629,49.659 -34.114,50.984 -33.587,54.079 C-32.092,62.854 -20.718,60.722 -16.076,57.425 C-11.932,54.483 -8.494,50.373 -4.714,46.896 C-2.058,44.453 0.914,42.537 3.62,40.179 C6.281,37.859 8.641,34.865 11.557,32.946 C15.909,30.081 23.856,29.32 28.577,31.829 C34.462,34.957 34.307,42.333 28.334,45.19 C17.449,50.395 12.991,40.03 2.978,53.714 C1.372,55.909 -0.476,58.949 0.188,61.968 C1.713,68.899 9.208,70.398 14.375,68.413 C21.339,65.737 26.881,50.224 34.128,52.241 C39.308,53.682 39.873,61.632 37.389,65.826 C35.371,69.233 31.632,70.595 28.324,71.698" id="Path" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" mask="url(#mask-8)"></path>
+                                        </g>
+                                    </g>
+                                    <path d="M57.949,-7.88860905e-31 C69.023,-7.88860905e-31 78,8.977 78,20.051 C78,20.052 78,20.053 78,20.053 C78,26.523 74.936,32.277 70.18,35.943 L47.259,58.112 L47.259,40.105 L36.57,40.105 C25.496,40.105 16.519,31.127 16.519,20.053 C16.519,20.053 16.519,20.052 16.519,20.051 C16.519,8.977 25.496,-7.10542736e-15 36.57,-7.10542736e-15 L57.949,-7.10542736e-15 L57.949,-7.88860905e-31 Z" id="Path" stroke="#1C64FD" stroke-width="3.75" stroke-linecap="square"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

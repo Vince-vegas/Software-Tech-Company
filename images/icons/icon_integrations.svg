@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_integrations</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80"></rect>
+        <polygon id="path-3" points="57.537 54.75 57.537 0.463 0.205 0.463 0.205 54.75"></polygon>
+        <rect id="path-5" x="0" y="0.225" width="40" height="39.775"></rect>
+        <rect id="path-7" x="0.577" y="0.289" width="99.538" height="115.459"></rect>
+    </defs>
+    <g id="Product-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-On-premises" transform="translate(-1175.000000, -2829.000000)">
+            <g id="Group-5" transform="translate(0.000000, 2251.000000)">
+                <g id="Group-4">
+                    <g id="icon_integrations" transform="translate(1175.000000, 576.000000)">
+                        <rect id="icon_012" x="0" y="0" width="80" height="80"></rect>
+                        <g id="Clipped">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle"></g>
+                            <g id="Group" mask="url(#mask-2)">
+                                <g transform="translate(0.000000, 4.000000)">
+                                    <polygon id="Path" fill="#E6EDFF" points="63.537 66.75 63.537 12.463 6.205 12.463 6.205 66.75"></polygon>
+                                    <g id="Clipped" stroke-width="1" fill="none" transform="translate(6.000000, 12.000000)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <g id="Path"></g>
+                                        <path d="M30.825,-22.262 C24.034,-10.756 14.219,-7.977 2.767,-6.11 C-2.209,-5.298 -7.962,-4.555 -11.742,-0.381 C-15.173,3.407 -15.857,9.474 -10.741,11.629 C-6.693,13.334 -2.604,10.817 0.541,8.088 C7.24,2.276 13.983,-4.181 21.686,-8.247 C26.404,-10.738 33.832,-11.979 34.213,-3.764 C34.545,3.402 27.357,5.842 22.581,7.633 C13.851,10.906 9.746,15.927 2.323,21.264 C-1.369,23.918 -5.308,25.571 -9.247,27.67 C-14.793,30.625 -20.359,39.756 -13.459,44.967 C-8.54,48.683 -2.72,44.892 1.006,40.879 C9.554,31.673 13.314,18.781 24.768,12.911 C32.038,9.186 39.66,12.009 46.959,9.344 C49.397,8.454 51.703,7.099 53.811,5.459 C56.854,3.093 60.818,-3.07 64.951,0.028 C66.448,1.151 67.339,3.162 67.597,5.135 C68.363,10.979 64.596,15.727 60.049,17.732 C51.542,21.484 42.501,14.129 34.063,19.236 C28.936,22.34 27.561,28.862 24.598,34.016 C21.848,38.798 17.705,42.099 13.095,44.274 C6.959,47.168 0.315,48.706 -5.658,52.012 C-7.766,53.179 -11.603,54.64 -11.023,58.052 C-9.377,67.726 3.148,65.375 8.26,61.741 C12.823,58.497 16.609,53.966 20.771,50.134 C23.696,47.441 26.969,45.328 29.949,42.728 C32.879,40.172 35.479,36.87 38.689,34.755 C43.482,31.597 52.233,30.757 57.432,33.524 C63.912,36.972 63.742,45.104 57.164,48.253 C45.177,53.991 40.269,42.564 29.242,57.649 C27.473,60.069 25.439,63.421 26.17,66.749 C27.849,74.389 36.103,76.041 41.793,73.853 C49.462,70.904 55.564,53.803 63.544,56.026 C69.249,57.615 69.872,66.378 67.136,71.001 C64.913,74.758 60.796,76.259 57.153,77.475" id="Path" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" mask="url(#mask-4)"></path>
+                                    </g>
+                                    <rect id="Rectangle" fill="#A1CEFF" x="0" y="36.225" width="40" height="39.775"></rect>
+                                    <g id="Clipped" stroke-width="1" fill="none" transform="translate(0.000000, 36.000000)">
+                                        <mask id="mask-6" fill="white">
+                                            <use xlink:href="#path-5"></use>
+                                        </mask>
+                                        <g id="Rectangle"></g>
+                                        <g mask="url(#mask-6)">
+                                            <g transform="translate(-69.000000, -11.000000)">
+                                                <mask id="mask-8" fill="white">
+                                                    <use xlink:href="#path-7"></use>
+                                                </mask>
+                                                <g id="Rectangle" stroke="none" fill="none"></g>
+                                                <g id="_Image5-link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)">
+                                                    <g transform="translate(69.000000, 11.224943)" id="_Image5">
+                                                        <image x="0" y="0" width="27.225968" height="39.77548" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAoCAYAAADt5povAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAqdJREFUWAndlk1IFVEYhueKBqHUyoQkkUJrUyHUop3UJjC6WAsRWtQqktBFCyEEjSKJEkqiqE2bQBAiWlWQ9AO1K6JVBWHcin4IwpWUxu15r+dMc6fj3JH5WfTBe9/zN98z58yZc6dw7E55g+d519CLq8XCCJ5p1AH5AKEH9WZKssmZYYst/5/ODMc1M/xCLjME1JgLyEDq8Bt5AgvMsAzwNtKrsQbdRefQADu4gGu5u7Ah6odVTxIWOE+SetSAviK7cz9R3o7eozmk2Aj411Jx5b+CKGlr4FIL04Ggd/S76WvC9yWBKY+e4TcVHCHYQKhdy50oBNTzeYW+ODJdCbWN8Dzr0aVQe+yqgIpt6Lc2iUR5Fi2icJyiYQENAn0X7oxTt0CNfUOSE+aii7hrxqbbm+bGNtnKStzu0vA192jQTCZMxyPjQesG+jjYEKesXeqKvTRql65zdZq2h3hwhSKG/u2KukC7dC16aoYfxc+jn6au1dlqyrEtCqgkbUgb6iTSSXQcrUI29gP9aCtxvBawlyRv0VmTbDVeOe5M/QzeAnTU1Gvacpum5oVmgD5JtLF0NH5G7WykyGOv1gzJERlFei+jW4DW4zs0mhkfkrtiuV3qGutq20mjnnEXkE6gz3DlfO4arLakSxrMq5PpINI7vBsNoQlu4gHuR9Il9RNR0Ovy0jzDEuXxMEyD0wTqU6XIkj7Bf6Cb6J9IE6jku9BmNIZOA+/AqyJtYD/Zm9ERdB3pBqoibaCS62BoQJNIr01VZAHcYgiD+AGWVSeVH1kAX/vZlwrDQP1PlSyAIZ43RYP/dZAHsMT7eN/eRR5Ay6p4HsA9QWIewJm8gUFeqmdpVWIq+jzx2DCdwY4sl7QkEO9gGfVZaJZAy5Drv7ESaf4B25xRPvwHONKm3ElAoEUAAAAASUVORK5CYII="></image>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Group" stroke-width="1" fill="none" transform="translate(18.000000, 0.000000)" stroke-linecap="square">
+                                        <rect id="Rectangle" stroke="#1C64FD" stroke-width="3.75" x="0.668" y="0" width="24.927" height="24.927"></rect>
+                                        <rect id="Rectangle" stroke="#1C64FD" stroke-width="3.75" x="0.668" y="32.405" width="24.927" height="24.927"></rect>
+                                        <rect id="Rectangle" stroke="#1C64FD" stroke-width="3.75" x="33.073" y="0" width="24.927" height="24.927"></rect>
+                                        <rect id="Rectangle" stroke="#1C64FD" stroke-width="3.75" x="33.073" y="32.405" width="24.927" height="24.927"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

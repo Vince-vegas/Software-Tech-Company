@@ -1,0 +1,40 @@
+.sc-business {
+  padding: 60px 0;
+
+  .handle-business {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+  }
+
+  h1 {
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  p {
+    font-size: 20px;
+  }
+  .btn-custom {
+    border-radius: 110px 100px 100px 0;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 30px;
+    margin-top: 40px;
+  }
+}
+
+@include media-query-max(768px) {
+  .sc-business {
+    h1 {
+      font-size: 33px;
+    }
+
+    p {
+      font-size: 18px;
+    }
+  }
+}

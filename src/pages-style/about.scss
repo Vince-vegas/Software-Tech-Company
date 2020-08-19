@@ -1,0 +1,125 @@
+// 0. Plugins
+@import '../../sass/0-plugins/variables.scss';
+@import '../../sass/0-plugins/mixin.scss';
+
+// 1. reset
+@import '../../sass/1-reset/normalize.scss';
+
+// 2. layout
+@import '../../sass/3-layout/responsive.scss';
+
+// Global Buttons
+@import '../../styles/global/global-buttons.scss';
+
+body {
+  background: #fff;
+  color: #3a3d49;
+  font: 400 16px/1.6 'Noto Sans JP', sans-serif;
+  overflow-x: hidden;
+}
+
+// NAV CSS
+@import '../../styles/global/navbar.scss';
+
+.main-about {
+  height: 625px;
+  display: flex;
+  align-items: center;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .mn-content {
+    h1 {
+      font-size: 42px;
+      font-weight: bolder;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .image-area {
+    border-radius: 3px;
+    overflow: hidden;
+  }
+}
+
+// SECTION ABOUT
+.sc-about {
+  padding: 40px 0;
+
+  .about-item {
+    text-align: center;
+    padding: 12px 10px;
+
+    .ab-img {
+      max-width: 80px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 25px;
+    }
+  }
+}
+
+// company review
+.sc-work-rev {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 120px 0;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+
+  .title-review {
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 45px;
+    text-shadow: 1px 1px 4px #243333;
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(21, 109, 155, 0.4);
+    z-index: -1;
+  }
+}
+
+@include media-query-max(768px) {
+  .main-about {
+    .mn-content {
+      margin-bottom: 30px;
+      h1 {
+        font-size: 32px;
+      }
+    }
+  }
+
+  .sc-about {
+    .about-item {
+      h1 {
+        font-size: 22px;
+      }
+    }
+  }
+
+  .sc-work-rev {
+    .title-review {
+      font-size: 28px;
+    }
+  }
+}
+
+// FOOTER
+@import '../../styles/sections/footer.scss';

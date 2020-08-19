@@ -1,0 +1,140 @@
+// 0. Plugins
+@import '../../sass/0-plugins/variables.scss';
+@import '../../sass/0-plugins/mixin.scss';
+
+// 1. reset
+@import '../../sass/1-reset/normalize.scss';
+
+// 2. layout
+@import '../../sass/3-layout/responsive.scss';
+
+// NAV CSS
+@import '../../styles/global/navbar.scss';
+
+// Global Buttons
+@import '../../styles/global/global-buttons.scss';
+
+// FOOTER
+@import '../../styles/sections/footer.scss';
+
+body {
+  background: #fff;
+  color: #3a3d49;
+  font: 400 16px/1.6 'Noto Sans JP', sans-serif;
+  overflow-x: hidden;
+}
+
+// CONTACT
+
+.mn-contact {
+  min-height: 100vh;
+  padding: 90px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .contact-content {
+    h1 {
+      font-size: 42px;
+      font-weight: bolder;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .contact-box {
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.02), 0 0 8px 0 rgba(0, 0, 0, 0.01),
+      4px 16px 32px 0 rgba(0, 48, 111, 0.16);
+    padding: 20px;
+    border-radius: 10px;
+  }
+}
+
+.contact-form {
+  button {
+    width: 100%;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 3px;
+    font-size: 20px;
+    background: #4350ff;
+    color: #fff;
+  }
+}
+
+.input-holder {
+  display: flex;
+
+  .input-item {
+    flex: 1;
+    margin-right: 15px;
+
+    &:last-child {
+      margin: 0;
+    }
+
+    input {
+      width: 100%;
+      border: 1px solid rgb(200, 202, 204);
+      font-size: 18px;
+      padding: 12px 10px;
+      border-radius: 3px;
+    }
+  }
+
+  .text-area {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid rgb(200, 202, 204);
+    outline: none;
+    border-radius: 3px;
+  }
+
+  &.msg-holder {
+    margin-top: 10px;
+  }
+}
+
+.err-text {
+  font-size: 14px;
+  color: red;
+  display: block;
+  height: 18px;
+  margin: 3px 0 8px;
+}
+
+.input-err {
+  border-color: red !important;
+}
+
+@include media-query-max(1024px) {
+  .mn-contact {
+    min-height: 780px;
+  }
+}
+
+@include media-query-max(600px) {
+  .mn-contact {
+    .contact-content {
+      h1 {
+        font-size: 32px;
+      }
+
+      p {
+        font-size: 16px;
+      }
+    }
+  }
+
+  .input-holder {
+    flex-direction: column;
+
+    .input-item {
+      margin: 0;
+    }
+  }
+}

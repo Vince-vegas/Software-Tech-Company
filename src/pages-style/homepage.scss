@@ -1,0 +1,77 @@
+// 0. Plugins
+@import '../../sass/0-plugins/variables.scss';
+@import '../../sass/0-plugins/mixin.scss';
+
+// 1. reset
+@import '../../sass/1-reset/normalize.scss';
+
+// 2. layout
+@import '../../sass/3-layout/responsive.scss';
+
+// Global Buttons
+@import '../../styles/global/global-buttons.scss';
+
+body {
+  background: #fff;
+  color: #3a3d49;
+  font: 400 16px/1.6 'Noto Sans JP', sans-serif;
+  overflow-x: hidden;
+}
+
+.sub-heading {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.heading-holder {
+  margin-bottom: 110px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sc-title {
+  font-size: 44px;
+  font-weight: bolder;
+}
+
+.sc-subtitle {
+  color: #1d1c1c;
+  font-size: 18px;
+}
+
+@include media-query-max(768px) {
+  .sub-heading {
+    font-size: 25px;
+  }
+}
+
+// CAROUSEL
+@import '../../styles/global/carousel.scss';
+
+// NAV CSS
+@import '../../styles/global/navbar.scss';
+
+// MAIN SECTION
+@import '../../styles/sections/main-section.scss';
+
+// SECTION ENVIRONMENT
+@import '../../styles/sections/environment.scss';
+
+// SECTION DIGITAL
+@import '../../styles/sections/digital-business.scss';
+
+// SECTION CUSTOMERS
+@import '../../styles/sections/large-customers.scss';
+
+// SECTION TOOLS
+@import '../../styles/sections/business-tools.scss';
+
+// SECTION CLIENTS
+@import '../../styles/sections/clients-review.scss';
+
+// SC BUSINESS WORK
+@import '../../styles/sections/business-start.scss';
+
+// FOOTER
+@import '../../styles/sections/footer.scss';

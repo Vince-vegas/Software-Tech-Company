@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_security</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80"></rect>
+        <polygon id="path-3" points="57.332 55 57.332 0.714 0 0.714 0 55"></polygon>
+        <polygon id="path-5" points="0.229 40.996 0.229 0.996 40.004 0.996 40.004 40.996"></polygon>
+        <polygon id="path-7" points="115.752 100.111 115.752 0.573 0.293 0.573 0.293 100.111"></polygon>
+    </defs>
+    <g id="Product-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-On-premises" transform="translate(-763.000000, -2411.000000)">
+            <g id="Group-5" transform="translate(0.000000, 2251.000000)">
+                <g id="Group-4">
+                    <g id="icon_security" transform="translate(763.000000, 160.000000)">
+                        <rect id="icon_008" x="0" y="0" width="80" height="80"></rect>
+                        <g id="Clipped">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle"></g>
+                            <g id="Group" mask="url(#mask-2)">
+                                <g transform="translate(0.000000, -1.000000)">
+                                    <polygon id="Path" stroke="none" fill="#E6EDFF" fill-rule="evenodd" points="57.332 81 57.332 26.714 0 26.714 0 81"></polygon>
+                                    <g id="Clipped" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 26.000000)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <g id="Path"></g>
+                                        <path d="M30.619,-22.011 C23.828,-10.506 14.014,-7.727 2.562,-5.86 C-2.414,-5.048 -8.168,-4.305 -11.947,-0.131 C-15.378,3.657 -16.062,9.725 -10.946,11.879 C-6.898,13.585 -2.809,11.068 0.336,8.338 C7.035,2.527 13.778,-3.93 21.481,-7.997 C26.199,-10.488 33.627,-11.729 34.008,-3.514 C34.34,3.652 27.152,6.092 22.376,7.883 C13.646,11.156 9.541,16.177 2.118,21.514 C-1.574,24.168 -5.513,25.822 -9.452,27.92 C-14.998,30.875 -20.564,40.006 -13.664,45.217 C-8.745,48.933 -2.925,45.142 0.801,41.129 C9.349,31.923 13.109,19.031 24.562,13.162 C31.833,9.436 39.455,12.259 46.754,9.594 C49.192,8.704 51.498,7.349 53.606,5.709 C56.649,3.343 60.612,-2.82 64.746,0.279 C66.243,1.401 67.134,3.412 67.392,5.386 C68.158,11.229 64.391,15.978 59.844,17.982 C51.337,21.734 42.296,14.379 33.857,19.487 C28.73,22.59 27.356,29.112 24.393,34.266 C21.643,39.049 17.499,42.35 12.89,44.524 C6.754,47.418 0.11,48.956 -5.863,52.262 C-7.971,53.43 -11.809,54.89 -11.228,58.302 C-9.582,67.976 2.943,65.625 8.055,61.991 C12.618,58.747 16.404,54.216 20.566,50.384 C23.491,47.691 26.764,45.579 29.744,42.979 C32.674,40.422 35.274,37.121 38.484,35.005 C43.276,31.847 52.028,31.008 57.227,33.774 C63.707,37.222 63.537,45.354 56.959,48.503 C44.972,54.241 40.064,42.814 29.037,57.899 C27.268,60.319 25.234,63.671 25.965,66.999 C27.644,74.639 35.898,76.292 41.588,74.103 C49.257,71.154 55.359,54.053 63.339,56.276 C69.044,57.865 69.667,66.629 66.931,71.252 C64.708,75.008 60.591,76.509 56.948,77.725" id="Path" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" mask="url(#mask-4)"></path>
+                                    </g>
+                                    <polygon id="Path" stroke="none" fill="#A1CEFF" fill-rule="evenodd" points="40.229 40.996 40.229 0.996 80.004 0.996 80.004 40.996"></polygon>
+                                    <g id="Clipped" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(40.000000, 0.000000)">
+                                        <mask id="mask-6" fill="white">
+                                            <use xlink:href="#path-5"></use>
+                                        </mask>
+                                        <g id="Path"></g>
+                                        <g mask="url(#mask-6)">
+                                            <g transform="translate(-11.000000, -68.000000)">
+                                                <mask id="mask-8" fill="white">
+                                                    <use xlink:href="#path-7"></use>
+                                                </mask>
+                                                <g id="Path" stroke="none" fill="none"></g>
+                                                <g id="_Image5-link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-8)">
+                                                    <g transform="translate(11.228609, 69.000000)" id="_Image5">
+                                                        <image x="0" y="0" width="39.77124" height="27.222244" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAcCAYAAAATFf3WAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAo5JREFUWAnNl01IFVEUx9/LnhGECIEImubCBIly48YWrloUooFmm0A3LkRU3ETQQhMFIVQiokWrIFpEmzaFiAuTCEGCFoEaKJZfuFKwog+131/uDJfhOaO+O48O/DjnfjDn/+65c++8ZPvrveInDcllfAF+Az+USCT64Rk0gWwVNqBKjWxaEkFvSFiHuN1gYsZe0XcdTpuxT/jLJs6KO0GWj/DZy4aoYS/GP4WU1S4kXoEJqy/WMBn2dMTeZPylPYeV1qr30Ddi98cVawXDTOVfD05A5GiwL672yYgHP2BcZfWN1VukoW3wFq75AzEFUSvYbvIWW/nPEd+FHbD7rSnuwtA9qDSs2DKuCDrgMXhWS7AN+VACN6ABnFrUCirZJZPRFmeL0D59D87FKUnoHmT1dDBPaWIam7T6mq3YaRgqkEw6TrbgTEjWNsZ0XsZioSXmOGkxWevwmtubRkU5fT/T9DvpOsxLkkLoH2Wj5Dm4v4HMv2nnBvqcNUNXUFk8cSajd3vYt0ts4pQzUqARtu8Q202wgL+F1zGjD4w9iM0iSxyVmbJfZE49DMI90HlYDU4sY4FSgchvOF2JefAIbsMpyNiOVOKDslFyXX8D8AN0s+j8dGJOBEoJIu/j1vD6Ctc9rTf/O2RkzgQaFecp9xVEfqHdCJXQCS/gWOZkDwYzI1I3VA5CfxFPEldAASif4jk4lDkXiCC9IDNQBkuwCX3QCik4krkusfbic5hFhUp7Fj7ANEjcQ4iyUnuCc4HWw4cROgVK+A5aQG97lGnVfXNeYv/JBwRsgXmG9EWuF+ermXYVP66YH3SBOf7tlHWBEoEA/ZXQlTmmdtAY11XaBTXBsf+qrZWMcw+6+LF3/gHG0plbhCEDtwAAAABJRU5ErkJggg=="></image>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <path d="M55,2.729 L1.643,2.729 C1.643,2.729 1.643,14.892 1.643,27.127 C1.643,42.093 10.85,55.516 24.81,60.906 C27.502,61.945 29.31,62.643 29.31,62.643 C29.31,62.643 30.639,62.091 32.693,61.237 C46.199,55.621 55,42.43 55,27.803 C55,15.344 55,2.729 55,2.729 Z" id="Path" stroke="#1C64FD" stroke-width="3.75" fill="none" stroke-linecap="square"></path>
+                                    <polyline id="Path" stroke="#1C64FD" stroke-width="3.75" fill="none" points="49.429 14.445 26.747 37 12.571 22.903"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
